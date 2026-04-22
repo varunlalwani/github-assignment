@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 varun lalwani 
 Program 
 Semester 
+=======
+name : varun kumar 
+program: BSCS
+semester: 6th 
+>>>>>>> 8b61338c63e0ef92643e7b35888cf62a6916594f
